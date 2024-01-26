@@ -22,7 +22,7 @@ Welcome to the 'YouTube Clone' project, a web application designed to emulate th
 - `/search/:searchTerm`: Used for searching videos and channels based on user input.
 
 ## Deployment
-- **Netlify**: The application is deployed on Netlify's free plan, providing a reliable and scalable hosting solution.
+- **Vercel**: The application is deployed on Vercel, providing a reliable and scalable hosting solution. Vercel offers seamless integration with front-end frameworks like React, making it an ideal choice for hosting our YouTube Clone application.
 
 ## Getting Started
 To run the YouTube Clone on your local machine, follow these steps:
