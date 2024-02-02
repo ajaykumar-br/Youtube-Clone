@@ -34,7 +34,7 @@ To run the YouTube Clone on your local machine, follow these steps:
 Contributions to the YouTube Clone project are welcome. Whether it's improving the code, suggesting new features, or reporting bugs, your input is valuable. Please feel free to fork the repository and submit pull requests.
 
 ## License
-This project is open-sourced under the [MIT license](LICENSE.md).
+This project is open-sourced under the [MIT license](LICENSE).
 
 ---
 
